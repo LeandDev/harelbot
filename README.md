@@ -1,0 +1,2 @@
+# harelbot
+Discord Harel Bot
